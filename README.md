@@ -6,7 +6,7 @@ A minimal and clean To-Do List web app built using **HTML**, **CSS**, and **Java
 
 👉 [View it Live](https://praveen-to-do-tracker.netlify.app/)
 
-*Replace the above link with your actual Netlify deployment URL.*
+
 
 ## 🎯 Features
 
