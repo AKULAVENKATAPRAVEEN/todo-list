@@ -1,4 +1,4 @@
-const apiUrl = "https://cjab2nkr04.execute-api.us-east-1.amazonaws.com/Prod";
+const apiUrl = "https://9pf7ulixwf.execute-api.ap-south-1.amazonaws.com/prod";
 
 //Function to add a new task
 function addTask() {
